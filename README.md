@@ -7,7 +7,7 @@ A Zed theme extension inspired by Cyberpunk 2077 (Arasaka, Biotechnica, Softsys,
 1. Open the command palette.
 2. Run `zed: install dev extension`.
 3. Select this directory.
-4. Choose one of the themes starting by "Cyberpunk : " in Zed appearance settings.
+4. Choose one of the themes starting by "Cyberpunk - " in Zed appearance settings.
 
 ## Notes
 
