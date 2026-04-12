@@ -4,4 +4,4 @@ version = "0.0.1"
 schema_version = 1
 authors = ["Thomas Simmer"]
 description = "Inspired by Cyberpunk 2077 (Arasaka, Biotechnica, Softsys, NCPD, Kang Tao, Militech, Delamain, Pink neon)"
-repository = "https://github.com/thomassimmer/cyberpunk-zed-extension"
+repository = "https://github.com/thomassimmer/cyberpunk-2077-zed-extension"

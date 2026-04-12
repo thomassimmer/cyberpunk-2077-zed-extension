@@ -11,5 +11,5 @@ A Zed theme extension inspired by Cyberpunk 2077 (Arasaka, Biotechnica, Softsys,
 
 ## Notes
 
-- Repository: `https://github.com/thomassimmer/cyberpunk-zed-extension`
+- Repository: `https://github.com/thomassimmer/cyberpunk-2077-zed-extension`
 - The extension id already uses the recommended `-theme` suffix for Zed theme extensions.
