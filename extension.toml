@@ -1,6 +1,6 @@
 id = "cyberpunk-2077-theme"
 name = "Cyberpunk 2077"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 authors = ["Thomas Simmer"]
 description = "Inspired by Cyberpunk 2077 (Arasaka, Biotechnica, Softsys, NCPD, Kang Tao, Militech, Delamain, Pink neon)"
