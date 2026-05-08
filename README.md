@@ -1,6 +1,6 @@
 # Cyberpunk 2077 Theme
 
-A Zed theme extension inspired by Cyberpunk 2077 (Arasaka, Biotechnica, Softsys, NCPD, Kang Tao, Militech, Delamain, Pink neon).
+A Zed theme extension inspired by Cyberpunk 2077 (Arasaka, Biotechnica, Softsys, NCPD, Kang Tao, Militech, Delamain, Pink neon, Mox).
 
 ## Install locally in Zed
 
