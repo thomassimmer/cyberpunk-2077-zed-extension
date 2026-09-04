@@ -1,7 +1,7 @@
 id = "cyberpunk-2077-theme"
 name = "Cyberpunk 2077"
-version = "0.0.3"
+version = "0.0.4"
 schema_version = 1
 authors = ["Thomas Simmer"]
-description = "Inspired by Cyberpunk 2077 (Arasaka, Biotechnica, Softsys, NCPD, Kang Tao, Militech, Delamain, Pink neon, Mox)"
+description = "Inspired by Cyberpunk 2077 (Arasaka, Biotechnica, Softsys, NCPD, Kang Tao, Militech, Delamain, Pink neon, Mox), on One Dark and One Dark Pro greys"
 repository = "https://github.com/thomassimmer/cyberpunk-2077-zed-extension"
